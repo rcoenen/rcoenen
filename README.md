@@ -46,3 +46,4 @@ Old obsession, still running. Amiga and C64 formats deserve proper tooling.
 - **[IFF-it](https://github.com/rcoenen/IFF-it)** + **[IFF-it QuickLook](https://github.com/rcoenen/IFF-it-QuickLook)** — macOS Quick Look, thumbnails, and Spotlight for Amiga IFF/ILBM files.
 - **[Petsciishop](https://github.com/rcoenen/Petsciishop)** — Browser-based C64 PETSCII editor with CRT display filters.
 - **[AmigaIFFConverter](https://github.com/rcoenen/AmigaIFFConverter)** — ILBM converter in PHP.
+
