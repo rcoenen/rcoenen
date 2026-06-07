@@ -36,7 +36,7 @@ FFmpeg with Apple VideoToolbox hardware acceleration.
 **[SongShifter](https://github.com/rcoenen/songshifter-android)** — Android
 app that redirects music links between streaming platforms.
 
-- **[actionmailbox-resend](https://github.com/rcoenen/actionmailbox-resend)** — Rails Engine providing Resend ActionMailbox ingress for Chatwoot.
+- **[actionmailbox-resend](https://github.com/rcoenen/actionmailbox-resend)** — Rails Engine providing Resend ActionMailbox ingress for Chatwoot & Konversio.
 
 ## 80s file formats
 
@@ -44,6 +44,5 @@ Old obsession, still running. Amiga and C64 formats deserve proper tooling.
 
 - **[DPaint.js](https://github.com/rcoenen/DPaint-js)** — Web-based image editor modelled after Deluxe Paint. Reads and writes Amiga IFF/ILBM and icon files.
 - **[IFF-it](https://github.com/rcoenen/IFF-it)** + **[IFF-it QuickLook](https://github.com/rcoenen/IFF-it-QuickLook)** — macOS Quick Look, thumbnails, and Spotlight for Amiga IFF/ILBM files.
-- **[Petsciishop](https://github.com/rcoenen/Petsciishop)** — Browser-based C64 PETSCII editor with CRT display filters.
+- **[Petsciishop](https://github.com/rcoenen/Petsciishop)** — Browser-based C64 PETSCII editor with CRT display filters. Converter hot paths moved to WASM for much faster palette calculations.
 - **[AmigaIFFConverter](https://github.com/rcoenen/AmigaIFFConverter)** — ILBM converter in PHP.
-
