@@ -30,8 +30,9 @@ Figma Slides — text, images, vectors, and layout as real nodes, not a raster.
 ## Apps & tools
 
 **[Beamy McBeamface](https://github.com/rcoenen/BeamyMcBeamface)** — Free,
-open-source video beamer for Mac. Drag any video, stream to Chromecast via
-FFmpeg with Apple VideoToolbox hardware acceleration.
+open-source alternative to [Beamer](https://softorino.com/beamer) for Mac.
+A good excuse to explore the current state of Roku, Apple TV, and Chromecast
+as playback platforms that open-source apps can actually use.
 
 **[SongShifter](https://github.com/rcoenen/songshifter-android)** — Android
 app that redirects music links between streaming platforms.
