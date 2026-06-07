@@ -31,8 +31,8 @@ Figma Slides — text, images, vectors, and layout as real nodes, not a raster.
 
 **[Beamy McBeamface](https://github.com/rcoenen/BeamyMcBeamface)** — Free,
 open-source alternative to [Beamer](https://softorino.com/beamer) for Mac.
-A good excuse to explore the current state of Roku, Apple TV, and Chromecast
-as playback platforms that open-source apps can actually use.
+I built it partly as an excuse to map the current state of Roku, Apple TV, and
+Chromecast as playback platforms that open-source apps can actually use.
 
 **[SongShifter](https://github.com/rcoenen/songshifter-android)** — Android
 app that redirects music links between streaming platforms.
@@ -45,5 +45,5 @@ Old obsession, still running. Amiga and C64 formats deserve proper tooling.
 
 - **[DPaint.js](https://github.com/rcoenen/DPaint-js)** — Web-based image editor modelled after Deluxe Paint. Reads and writes Amiga IFF/ILBM and icon files.
 - **[IFF-it](https://github.com/rcoenen/IFF-it)** + **[IFF-it QuickLook](https://github.com/rcoenen/IFF-it-QuickLook)** — macOS Quick Look, thumbnails, and Spotlight for Amiga IFF/ILBM files.
-- **[Petsciishop](https://github.com/rcoenen/Petsciishop)** — Browser-based C64 PETSCII editor with CRT display filters. Converter hot paths moved to WASM for much faster palette calculations.
+- **[Petsciishop](https://github.com/rcoenen/Petsciishop)** — Browser-based C64 PETSCII editor with CRT display filters. A reason to move converter hot paths into WASM and make palette calculations dramatically faster.
 - **[AmigaIFFConverter](https://github.com/rcoenen/AmigaIFFConverter)** — ILBM converter in PHP.
