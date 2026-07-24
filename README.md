@@ -9,7 +9,9 @@ works in production for real people.
 ## Platforms
 
 **[OpenPencil](https://github.com/open-pencil/open-pencil)** — Open-source
-design editor and Figma alternative built on Skia/WebGL. [openpencil.dev](https://openpencil.dev)
+design editor and Figma alternative built on Skia/WebGL. Working on a BYOK AI
+layer so it runs on any inference provider, not just the handful hardcoded in
+the model picker. [openpencil.dev](https://openpencil.dev)
 
 **[Konversio](https://github.com/konversio-org/konversio)** — Open-source
 customer support platform with a fully BYOK AI layer. Self-host with any LLM
@@ -21,6 +23,9 @@ provider. EU-sovereign, GDPR-compliant alternative to Intercom and Zendesk.
 with `.fig` and `.deck` files without the Figma app. Converts
 [Claude Design](https://claude.ai/design) HTML exports into native editable
 Figma Slides — text, images, vectors, and layout as real nodes, not a raster.
+This is what makes Figma design and deck creation genuinely agentic: an agent
+can author real, editable files end to end, with no app and no human in the
+loop.
 
 ## MCP servers
 
