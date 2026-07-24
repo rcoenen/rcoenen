@@ -10,8 +10,7 @@ works in production for real people.
 
 **[OpenPencil](https://github.com/open-pencil/open-pencil)** — Open-source
 design editor and Figma alternative built on Skia/WebGL. Working on a BYOK AI
-layer so it runs on any inference provider, not just the handful hardcoded in
-the model picker. [openpencil.dev](https://openpencil.dev)
+layer so it runs on any inference provider. [openpencil.dev](https://openpencil.dev)
 
 **[Konversio](https://github.com/konversio-org/konversio)** — Open-source
 customer support platform with a fully BYOK AI layer. Self-host with any LLM
